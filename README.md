@@ -1,3 +1,3 @@
 # embedded-system-project
-## Embedded System project
-## by nnn-system
+Embedded System project
+by nnn-system
